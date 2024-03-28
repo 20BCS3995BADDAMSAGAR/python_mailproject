@@ -1,15 +1,15 @@
 # python_mailproject
 
 1)The first step in any python project will be intalling and importing the relevant libraries.In this project first install:
-     1)pandas
-     2)smtplib
-     3)email-to
+     1.pandas
+     2.smtplib
+     3.email-to
 
 2)And we imported the needed libraries:
-     1)pandas
-     2)smtlib
-     3)MIMEMultipart
-     4)MIMEtext
+     1.pandas
+     2.smtlib
+     3.MIMEMultipart
+     4.MIMEtext
 
 3) we created a csv file with a column name EmailID and added some emailids in the file then we imported the "kpkp.csv" file into google colab/pyhton IDE.
 4) In the next step we have found the length of emails and stored it in the variable 'l'
